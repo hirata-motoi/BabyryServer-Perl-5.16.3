@@ -1,0 +1,1 @@
+{"provides":{"Plack::Middleware::BetterStackTrace":{"version":"0.02","file":"lib/Plack/Middleware/BetterStackTrace.pm"}},"target":"Plack::Middleware::BetterStackTrace","version":"0.02","name":"Plack::Middleware::BetterStackTrace","dist":"Plack-Middleware-BetterStackTrace-0.02","pathname":"G/GU/GUNYA/Plack-Middleware-BetterStackTrace-0.02.tar.gz"}

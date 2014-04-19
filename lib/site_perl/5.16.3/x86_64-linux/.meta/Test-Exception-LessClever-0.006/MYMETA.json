@@ -1,0 +1,44 @@
+{
+   "abstract" : "Test::Exception simplified",
+   "author" : [
+      "Chad Granum <exodist7@gmail.com>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Build version 0.4205",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Test-Exception-LessClever",
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "Mock::Quick" : "1.100",
+            "Test::Simple" : "0.88"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Carp" : "0",
+            "Exporter" : "0",
+            "Test::Builder" : "0"
+         }
+      }
+   },
+   "provides" : {
+      "Test::Exception::LessClever" : {
+         "file" : "lib/Test/Exception/LessClever.pm",
+         "version" : "0.006"
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "license" : [
+         "http://dev.perl.org/licenses/"
+      ]
+   },
+   "version" : "0.006"
+}

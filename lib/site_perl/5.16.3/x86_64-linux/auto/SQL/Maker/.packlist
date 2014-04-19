@@ -1,0 +1,16 @@
+/home/babyry/perl5/perlbrew/perls/perl-5.16.3/lib/site_perl/5.16.3/SQL/Maker.pm
+/home/babyry/perl5/perlbrew/perls/perl-5.16.3/lib/site_perl/5.16.3/SQL/Maker/Condition.pm
+/home/babyry/perl5/perlbrew/perls/perl-5.16.3/lib/site_perl/5.16.3/SQL/Maker/Plugin/InsertMulti.pm
+/home/babyry/perl5/perlbrew/perls/perl-5.16.3/lib/site_perl/5.16.3/SQL/Maker/Plugin/InsertOnDuplicate.pm
+/home/babyry/perl5/perlbrew/perls/perl-5.16.3/lib/site_perl/5.16.3/SQL/Maker/SQLType.pm
+/home/babyry/perl5/perlbrew/perls/perl-5.16.3/lib/site_perl/5.16.3/SQL/Maker/Select.pm
+/home/babyry/perl5/perlbrew/perls/perl-5.16.3/lib/site_perl/5.16.3/SQL/Maker/Select/Oracle.pm
+/home/babyry/perl5/perlbrew/perls/perl-5.16.3/lib/site_perl/5.16.3/SQL/Maker/SelectSet.pm
+/home/babyry/perl5/perlbrew/perls/perl-5.16.3/lib/site_perl/5.16.3/SQL/Maker/Util.pm
+/home/babyry/perl5/perlbrew/perls/perl-5.16.3/man/man3/SQL::Maker.3
+/home/babyry/perl5/perlbrew/perls/perl-5.16.3/man/man3/SQL::Maker::Condition.3
+/home/babyry/perl5/perlbrew/perls/perl-5.16.3/man/man3/SQL::Maker::Plugin::InsertMulti.3
+/home/babyry/perl5/perlbrew/perls/perl-5.16.3/man/man3/SQL::Maker::Plugin::InsertOnDuplicate.3
+/home/babyry/perl5/perlbrew/perls/perl-5.16.3/man/man3/SQL::Maker::SQLType.3
+/home/babyry/perl5/perlbrew/perls/perl-5.16.3/man/man3/SQL::Maker::Select.3
+/home/babyry/perl5/perlbrew/perls/perl-5.16.3/man/man3/SQL::Maker::SelectSet.3

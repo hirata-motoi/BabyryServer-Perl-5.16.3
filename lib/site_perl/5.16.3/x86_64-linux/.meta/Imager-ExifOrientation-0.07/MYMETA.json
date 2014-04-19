@@ -1,0 +1,52 @@
+{
+   "abstract" : "A picture is rotated using Orientation of Exif",
+   "author" : [
+      "Kazuhiro Osawa <yappo <at> shibuya <döt> pl>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Install version 1.00, CPAN::Meta::Converter version 2.120630",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Imager-ExifOrientation",
+   "no_index" : {
+      "directory" : [
+         "inc",
+         "t",
+         "xt"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.42",
+            "Test::More" : "0"
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.42"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Image::ExifTool" : "0",
+            "Imager" : "0.51"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "license" : [
+         "http://dev.perl.org/licenses/"
+      ],
+      "repository" : {
+         "url" : "git://github.com/yappo/p5-Imager-ExifOrientation.git"
+      }
+   },
+   "version" : "0.07"
+}

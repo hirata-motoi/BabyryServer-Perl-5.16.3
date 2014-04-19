@@ -1,0 +1,8 @@
+/home/babyry/perl5/perlbrew/perls/perl-5.16.3/bin/package-stash-conflicts
+/home/babyry/perl5/perlbrew/perls/perl-5.16.3/lib/site_perl/5.16.3/Package/Stash.pm
+/home/babyry/perl5/perlbrew/perls/perl-5.16.3/lib/site_perl/5.16.3/Package/Stash/Conflicts.pm
+/home/babyry/perl5/perlbrew/perls/perl-5.16.3/lib/site_perl/5.16.3/Package/Stash/PP.pm
+/home/babyry/perl5/perlbrew/perls/perl-5.16.3/man/man1/package-stash-conflicts.1
+/home/babyry/perl5/perlbrew/perls/perl-5.16.3/man/man3/Package::Stash.3
+/home/babyry/perl5/perlbrew/perls/perl-5.16.3/man/man3/Package::Stash::Conflicts.3
+/home/babyry/perl5/perlbrew/perls/perl-5.16.3/man/man3/Package::Stash::PP.3
